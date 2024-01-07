@@ -105,7 +105,7 @@ After the first 6 seminars, I will require one review per week for one of the pa
 the assigned papers. You are allowed to skip 2 reviews throughout the term.  The reviews will be 2 pages long (if you need more space take another 0.25 page but try not to). 
 You have to finish your review with one question. The reviews are due at 11:59pm Wednseday. Submit your review on Crowdmark. Each review has the same weight.
 
-You are expected to (very very) briefly answer the following 5 questions and finish your reviews with a
+You are expected to answer the following 5 questions and finish your reviews with a
 question that can start a discussion in class:
 
 + What is the problem?
