@@ -17,7 +17,7 @@ The seminar is based on weekly paper readings and student presentations, discuss
 a term project. 
 
 ## (Tentative) Schedule
-The below schedule is subject to change:
+The schedule below is subject to change:
 | Week | Date | Topic | Readings | Slides |
 |:-----|:-----|:------|:------------|:-----|
 | 1 | 1/8 | Introduction, problems and applications (Kimon lecturing) | [Geometric Deep Learning](https://arxiv.org/abs/2104.13478) (Chapter 1) <br/> [Geometric foundations of Deep Learning](https://towardsdatascience.com/towards-geometric-deep-learning-iv-chemical-precursors-of-gnns-11273d74125) <br/>  [Towards Geometric Deep Learning I: On the Shoulders of Giants](https://towardsdatascience.com/towards-geometric-deep-learning-i-on-the-shoulders-of-giants-726c205860f5) <br/> [Towards Geometric Deep Learning II: The Perceptron Affair](https://towardsdatascience.com/towards-geometric-deep-learning-ii-the-perceptron-affair-fafa61b5c40a) <br/> [Towards Geometric Deep Learning III: First Geometric Architectures](https://towardsdatascience.com/towards-geometric-deep-learning-iii-first-geometric-architectures-d1578f4ade1f) <br/> [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/) <br/> [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E) <br/> [Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc)| [PDF](https://github.com/opallab/cs886-winter-2024/blob/main/lecture_1.pdf), [Keynote](https://github.com/opallab/cs886-winter-2024/blob/main/lecture_1.key)  |
