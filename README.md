@@ -139,7 +139,7 @@ On the github page, please document exactly how to run your source code.
 
 
 ## Presentations
-Each student will be doing 1 presentations in the term. Each presentation will be about 25 minutes long plus questions.
+Each student will be doing 1 presentations in the term. Each presentation will be about 40 minutes long plus questions.
 Here are the important points summarizing what you have to do for your presentations.
 
 + You must present with slides. The content in your slides should be your own but you can use others' materials, e.g., 
