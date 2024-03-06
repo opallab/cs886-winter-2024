@@ -45,7 +45,7 @@ The schedule below is subject to change:
 | 12 | 3/25 | GNNs for combinatorial optimization Part 2 | [Combinatorial optimization and reasoning with graph neural networks](https://arxiv.org/abs/2102.09544) and [Exact Combinatorial Optimization with Graph Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2019/file/d14c2267d848abeb81fd590f371d39bd-Paper.pdf)| |
 | 12 | 3/27 | Link prediction | [Link Prediction Based on Graph Neural Networks](https://arxiv.org/pdf/1802.09691.pdf) and [Line Graph Neural Networks for Link Prediction](https://arxiv.org/pdf/2010.10046.pdf) | |
 | 13 | 4/1 | The exotics | [Neural Algorithmic Reasoning](https://arxiv.org/abs/2105.02761) and [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/pdf/2203.15544.pdf) and [Pointer Graph Networks](https://arxiv.org/pdf/2006.06380.pdf)|
-| 13 | 4/3 | Generative GNNs | [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models](https://arxiv.org/abs/1802.08773) | |
+| 13 | 4/3 | Generative GNNs | [Chapter11: Graph Neural Networks: Graph Generation](https://graph-neural-networks.github.io/gnnbook_Chapter11.html) | |
 
 
 ## Readings
